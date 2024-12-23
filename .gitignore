@@ -1,0 +1,14 @@
+
+.DS_Store
+.build
+/Packages
+/*.swiftinterface
+/*.xcodeproj
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
