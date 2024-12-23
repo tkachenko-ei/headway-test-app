@@ -13,7 +13,6 @@ xcuserdata/
 Packages/
 Package.pins
 Package.resolved
-*.xcodeproj
 .swiftpm
 
 .build/
